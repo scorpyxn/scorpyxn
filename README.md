@@ -1,7 +1,7 @@
 # About Me:
 im currently learning to become a game - and maybe app - developer. i love listening music, gaming, watching anime, and I’m really into tech.
 
-as of jan 2026, i am a final-year student at HEMS in Darmstadt, Germany, and i enjoy working with Linux, Windows, and macOS.
+as of jan 2026, i am a final-year student at HEMS in Darmstadt, Germany, and i enjoy working with linux, windows, and macOS.
 
 right now im especially interested in:
 

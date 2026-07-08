@@ -1,5 +1,5 @@
 # About Me:
-<br>im currently learning to become a game - and maybe app - developer. im passionate about technology and enjoy spending my free time listening to music, playing games, and watching anime.<br><br>as of jan 2026, i am a final-year student at HEMS in Darmstadt, Germany, and i enjoy working with linux, windows, and macOS.<br><br>right now im especially interested in:<br><br>  - game development and prototyping<br><br>  - app development for desktop and mobile<br><br>  - exploring tools like raspberry pi, arduino, and networking with cisco<br>
+<br>im currently learning to become a game - and maybe app - developer. when im not coding, i enjoy listening to music, playing games, watching anime, and experimenting with new tech.<br><br>as of august 2026, i am a first-year apprentice at the Deutsche Rentenversicherung Hessen in Frankfurt, Germany, and i regularly work with linux, windows, and macOS.<br><br>right now im especially interested in:<br><br>  - game development and prototyping<br><br>  - app development for desktop and mobile<br><br>  - exploring tools like raspberry pi, arduino, and networking with cisco<br>
 
 
 # Tech Stack:
